@@ -2,3 +2,5 @@ this is my first code line
 select * from tab where
 tname ='TABLE';
 this will show the list of all tables in our database
+select * from cat;
+this command will show the details of all objects in database
