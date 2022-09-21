@@ -4,3 +4,4 @@ tname ='TABLE';
 this will show the list of all tables in our database
 select * from cat;
 this command will show the details of all objects in database
+good job man
